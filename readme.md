@@ -36,8 +36,8 @@
 ### 🌐 Portfolio
 
 Visit my live site here:  
-🔗 [My First Login Project](https://shorturl.at/SL4mz)
-
+🔗 [Seven Wonders](https://taezeems-webpage.netlify.app)
+🔗 [Nobel Prize Winners](https://nobel-prize-explorer.netlify.app)
 ---
 
 ### ⚡ Fun Fact
