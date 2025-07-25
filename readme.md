@@ -37,7 +37,6 @@
 
 Visit my live site here:  
 > 🔗 [Seven Wonders](https://taezeem14.github.io/seven-wonders)
-<br>
 > 🔗 [Nobel Prize Winners](https://www.prixe.tech)
 ---
 
