@@ -55,6 +55,14 @@ Visit my live sites:
 
 ---
 
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img src="https://taezeem14-stats-card.onrender.com/user?user=Taezeem14&layout=compact&theme=monokai"/>
+<img src="https://taezeem14-stats-card.onrender.com/lang?user=taezeem14&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taezeem14&theme=dracula">
+
+---
+
 ### ⚡ Fun Fact
 
 > I don’t just browse the web...  
