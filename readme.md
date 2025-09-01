@@ -55,11 +55,6 @@ Visit my live sites:
 
 ---
 
-[![github-stats-card](https://taezeem14-stats-card.onrender.com/user?user=taezeem14&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
-[![github-stats-card](https://taezeem14-stats-card.onrender.com/lang?user=taezeem14&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
-
----
-
 ### ⚡ Fun Fact
 
 > I don’t just browse the web...  
