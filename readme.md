@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 I’m a student exploring web development & ethical hacking  
-- 🛠️ Currently learning **HTML, CSS, JavaScript**  
+- 🛠️ Currently learning **HTML, CSS, JavaScript, Python**  
 - 🧅 Explored the **Deep & Dark Web** (yes, the .onion side) using sandboxed tools — strictly for **educational research**  
 - 🚀 Love building creative and secure digital projects  
 - 🕶️ Tech + hacking = my playground  
@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-Browsed--Safely--with--OpSec-7E4798?logo=tor&logoColor=white)
 
