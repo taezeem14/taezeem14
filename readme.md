@@ -10,7 +10,8 @@
 
 - 🧠 I’m a student exploring web development & ethical hacking  
 - 🛠️ Currently learning **HTML, CSS, JavaScript, Python**  
-- 🧅 Explored the **Deep & Dark Web** (yes, the .onion side) using sandboxed tools — strictly for **educational research**  
+- 🧅 Explored the **Deep & Dark Web** (yes, the .onion side) using sandboxed tools — strictly for **educational research**
+- 👓 Hacked My School Website Using Burpsuite - with **exclusive permission from the school department**
 - 🚀 Love building creative and secure digital projects  
 - 🕶️ Tech + hacking = my playground  
 
