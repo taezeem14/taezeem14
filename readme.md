@@ -52,8 +52,9 @@
 ### 🌐 Portfolio
 
 Visit my live sites:  
-> 🔗 [Seven Wonders](https://taezeem14.github.io/seven-wonders)  
+> 🔗 [About Me](https://taezeem.me)  
 > 🔗 [Nobel Prize Winners](https://www.prixe.tech)
+> 🔗 [Web Manager](https://www.webmzn.dev)
 
 ---
 
