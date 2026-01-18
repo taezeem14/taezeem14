@@ -53,9 +53,8 @@
 ### 🌐 Portfolio
 
 Visit my live sites: 
-> 🔗 [HackoAi](https://hackoai.netlify.app)
-> 🔗 [About Me](https://taezeem.me)  
-<br>
+> 🔗 [HackoAi](https://hackoai.netlify.app)<br>
+> 🔗 [About Me](https://taezeem.me) <br>
 > 🔗 [Web Manager](https://www.webmzn.dev)
 
 ---
