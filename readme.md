@@ -53,7 +53,7 @@
 ### 🌐 Portfolio
 
 Visit my live sites: 
-> 🔗 [HackoAi](https://hackoai.netlify.app)<br>
+> 🔗 [Spectrix Ai](https://spectrix.netlify.app)<br>
 > 🔗 [About Me](https://taezeem.me) <br>
 > 🔗 [Web Manager](https://www.webmzn.dev)
 
