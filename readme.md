@@ -38,7 +38,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taezeem14&show_icons=true&theme=radical)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=taezeem14&show_icons=true&theme=radical)](#)
 </p>
 
 ---
