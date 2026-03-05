@@ -50,15 +50,6 @@
 
 ---
 
-### 🌐 Portfolio
-
-Visit my live sites: 
-> 🔗 [Spectrix Ai](https://spectrix.netlify.app)<br>
-> 🔗 [About Me](https://taezeem.me) <br>
-> 🔗 [Web Manager](https://www.webmzn.dev)
-
----
-
 ### ⚡ Fun Fact
 
 > I don’t just browse the web...  
