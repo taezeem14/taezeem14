@@ -19,7 +19,7 @@
 
 ### 🔧 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,azure,react,py,js,flutter,kali,windows,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,azure,react,py,js,flutter,kali,windows,vscode&perline=9)](https://skillicons.dev)
 
 ---
 
