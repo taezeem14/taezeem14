@@ -50,6 +50,10 @@
 
 ---
 
+![counter](https://count.getloli.com/@taezeem14?theme=minecraft)
+
+---
+
 <p align="center">
   💥 Let's YIBAMBE the web together 🔥
 </p>
