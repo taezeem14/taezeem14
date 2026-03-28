@@ -60,12 +60,23 @@
 
 ### `// GitHub Stats`
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=taezeem14&theme=radical&hide_border=true&border_radius=10&date_format=j%20M[%20Y]" alt="GitHub Streak"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taezeem14&show_icons=true&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/contributions%20last%20year-1%2C447%20🔥-7c5cfc?style=flat-square"/>
 </p>
 
 ---
 
 ### `// Connect`
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Taezeem__14-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Taezeem_14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--taezeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taezeem-tariq-matta)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5688--4240-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5688-4240)
+
 - 🌍 [taezeem.me](https://taezeem.me)
 - 🌎 [taezeem.is-a.dev](https://taezeem.is-a.dev)
 - 🚀 [prixe.tech](https://prixe.tech)
