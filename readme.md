@@ -3,7 +3,7 @@
   <em>Self-taught Dev ⚡ | Ethical Hacker in Training 🕵️ | Passionate Builder 🚀</em>
 </p>
 <p align="center">
-  <a href="https://www.srmwelkin.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Grade%208-%40%20SRM%20Welkin-7c5cfc?style=flat-square"/></a>
+  <a href="https://taezeem.me/srm"><img src="https://img.shields.io/badge/Grade%208-%40%20SRM%20Welkin-7c5cfc?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/Sopore%2C%20J%26K-🏔️-00e5ff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-Collabs-ff4b6e?style=flat-square"/>
 </p>
