@@ -73,9 +73,10 @@
 
 ### `// Connect`
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Taezeem__14-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Taezeem_14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--taezeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taezeem-tariq-matta)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5688--4240-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5688-4240)
+[![Telegram](https://img.shields.io/badge/Telegram-@Taezeem__14-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Taezeem_14)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--taezeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taezeem-tariq-matta)<br/>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5688--4240-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5688-4240)<br/>
+[![EMAIL](https://img.shields.io/badge/EMAIL-admin@taezeem.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@taezeem.me)
 
 - 🌍 [taezeem.me](https://taezeem.me)
 - 🌎 [taezeem.is-a.dev](https://taezeem.is-a.dev)
