@@ -28,7 +28,7 @@
 ### `// Featured Projects`
 | Project | Description | Lang | Stars |
 |---|---|---|---|
-| 🤖 **[spectrix](https://github.com/taezeem14/spectrix)** | PWA AI chatbot — streaming, voice I/O, math rendering & multi-model routing. 500+ commits. | HTML | ⭐ 3 |
+| 🤖 **[spectrix](https://github.com/taezeem14/spectrix)** | PWA AI chatbot — streaming, voice I/O, math rendering & multi-model routing. 530+ commits. | HTML | ⭐ 3 |
 | 🔓 **[BlueCrack](https://github.com/taezeem14/BlueCrack)** | Ethical brute-force tool — built for controlled pentesting environments only. | Python | ⭐ 1 |
 | 🐧 **[modded-ubuntu](https://github.com/taezeem14/modded-ubuntu)** | Full Ubuntu GUI on Termux with extended features. *(forked & improved)* | Shell | ⭐ 2 |
 | 🕵️ **[DeepRecon](https://github.com/taezeem14/DeepRecon)** | Dark web recon tool — educational & research use only. | Python | ⭐ 1 |
