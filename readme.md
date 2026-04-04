@@ -65,9 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taezeem14&show_icons=true&theme=radical"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/contributions%20last%20year-1%2C447%20🔥-7c5cfc?style=flat-square"/>
-</p>
 
 ---
 
