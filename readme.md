@@ -83,6 +83,7 @@
 - 🚀 [prixe.tech](https://prixe.tech)
 - 🧪 [webmzn.dev](https://webmzn.dev)
 - ✨ [spectrix.netlify.app](https://spectrix.netlify.app)
+- ✨ [spectrix-ai.vercel.app](https://spectrix-ai.vercel.app)
 
 Drop a ⭐ on a repo you like. DMs open for collabs, CTF teams & code reviews.
 
