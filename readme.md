@@ -60,7 +60,7 @@
 
 ### `// GitHub Stats`
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=taezeem14&theme=radical&hide_border=true&border_radius=10&date_format=j%20M[%20Y]" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taezeem14&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taezeem14&show_icons=true&theme=radical"/>
