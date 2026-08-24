@@ -28,11 +28,11 @@
 ### `// Featured Projects`
 | Project | Description | Lang | Stars |
 |---|---|---|---|
-| 🤖 **[spectrix](https://github.com/taezeem14/spectrix)** | PWA AI chatbot — streaming, voice I/O, math rendering & multi-model routing. 630+ commits. | HTML | ⭐ 3 |
-| 🔓 **[BlueCrack](https://github.com/taezeem14/BlueCrack)** | Ethical brute-force tool — built for controlled pentesting environments only. | Python | ⭐ 1 |
+| 🤖 **[spectrix](https://github.com/taezeem14/spectrix)** | PWA AI chatbot — streaming, voice I/O, math rendering & multi-model routing. 799+ commits. | HTML | ⭐ 5 |
+| 🔓 **[BlueCrack](https://github.com/taezeem14/BlueCrack)** | Ethical brute-force tool — built for controlled pentesting environments only. | Python | ⭐ 2 |
 | 🐧 **[modded-ubuntu](https://github.com/taezeem14/modded-ubuntu)** | Full Ubuntu GUI on Termux with extended features. *(forked & improved)* | Shell | ⭐ 2 |
 | 🕵️ **[DeepRecon](https://github.com/taezeem14/DeepRecon)** | Dark web recon tool — educational & research use only. | Python | ⭐ 1 |
-| 📡 **[WirelessADB](https://github.com/taezeem14/WirelessADB)** | Wireless ADB for Android devices below Android 11. No root needed. | Python | — |
+| 📡 **[WirelessADB](https://github.com/taezeem14/WirelessADB)** | Wireless ADB for Android devices below Android 11. No root needed. | Python | ⭐ 6 |
 | 🖥️ **[termux-desktop](https://github.com/taezeem14/termux-desktop)** | Full desktop env setup for Termux. Desktop in your pocket, no cap. | Shell | ⭐ 1 |
 
 ---
@@ -73,12 +73,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@Taezeem__14-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Taezeem_14)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--taezeem-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taezeem-tariq-matta)<br/>
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5688--4240-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5688-4240)<br/>
-[![EMAIL](https://img.shields.io/badge/EMAIL-admin@taezeem.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@taezeem.me)
+[![EMAIL](https://img.shields.io/badge/EMAIL-tariqmtaezeem@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tariqmtaezeem@gmail.com)
 
-- 🌍 [taezeem.me](https://taezeem.me)
 - 🌎 [taezeem.is-a.dev](https://taezeem.is-a.dev)
-- 🚀 [prixe.tech](https://prixe.tech)
-- 🧪 [webmzn.dev](https://webmzn.dev)
 - ✨ [spectrix.netlify.app](https://spectrix.netlify.app)
 - ✨ [spectrix-ai.vercel.app](https://spectrix-ai.vercel.app)
 
