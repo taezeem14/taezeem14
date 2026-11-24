@@ -36,16 +36,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,bash,react,flask,androidstudio,kali,linux,windows,vscode,git,github,firebase,cloudflare&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,bash,react,flask,androidstudio,kali,linux,windows,firebase,cloudflare&perline=8" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDE-Antigravity-7C5CFC?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
