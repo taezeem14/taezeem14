@@ -61,7 +61,7 @@
 | 🔐 **[BlueCrack](https://github.com/taezeem14/BlueCrack)** | Web authentication security research and auditing toolkit for authorized testing environments. | Python | [![Stars](https://img.shields.io/github/stars/taezeem14/BlueCrack?style=flat-square&color=yellow)](https://github.com/taezeem14/BlueCrack) |
 | 🐧 **[modded-ubuntu](https://github.com/taezeem14/modded-ubuntu)** | Ubuntu environment manager for Termux. Linux in your pocket. | Shell | [![Stars](https://img.shields.io/github/stars/taezeem14/modded-ubuntu?style=flat-square&color=yellow)](https://github.com/taezeem14/modded-ubuntu) |
 | 🕵️ **[DeepRecon](https://github.com/taezeem14/DeepRecon)** | OSINT and digital footprint research project. | Python | [![Stars](https://img.shields.io/github/stars/taezeem14/DeepRecon?style=flat-square&color=yellow)](https://github.com/taezeem14/DeepRecon) |
-| ⚙️ **[T++](https://github.com/taezeem14/tpp-language)** | A programming language experiment. Because apparently Python wasn't enough. | — | [![Stars](https://img.shields.io/github/stars/taezeem14/tpp-language?style=flat-square&color=yellow)](https://github.com/taezeem14/tpp-language) |
+| ⚙️ **[T++ (T-Plus-Plus)](https://github.com/taezeem14/T-Plus-Plus)** | A programming language experiment. Because apparently Python wasn't enough. | — | [![Stars](https://img.shields.io/github/stars/taezeem14/T-Plus-Plus?style=flat-square&color=yellow)](https://github.com/taezeem14/T-Plus-Plus) |
 
 <p align="center">
   <a href="https://github.com/taezeem14?tab=repositories">
